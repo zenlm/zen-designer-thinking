@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-designer-thinking" width="880"></p>
+
 # Zen Designer Thinking
 
 Chain-of-thought reasoning for visual design.
